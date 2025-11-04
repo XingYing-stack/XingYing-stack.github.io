@@ -136,4 +136,4 @@ I am also conducting research at [Natural Language Processing Lab at Tsinghua Un
 
 - _2023.09 – 2023.11_, Quant Research, E Fund, Guangzhou.
 - _2023.04 – 2023.10_, Algorithm Engineer, Tiktok Live, ByteDance, Beijing.
-- _2020.11 – 2021.01, Enterprise Services, ByteDance, Beijing.
+- _2020.11 – 2021.01_, Enterprise Services, ByteDance, Beijing.
