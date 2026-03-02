@@ -22,6 +22,10 @@ I’m currently a Ph.D. student at the Gaoling School of Artificial Intelligence
 I am also conducting research at [Natural Language Processing Lab at Tsinghua University(THUNLP)](https://nlp.csai.tsinghua.edu.cn/), supervised by [Prof. XinCong](https://scholar.google.com/citations?user=RL9CmXgAAAAJ&hl=zh-CN). My research interest includes Agent and RL Algorithm.
 
 # 🔥 News
+- _2026.01_: &nbsp;🎉🎉 We have open-sourced [AgentCPM-Explore](https://github.com/OpenBMB/AgentCPM)—an agent LLM with only 4B parameters—along with all code for training, inference, and the tool sandbox environment.
+
+- _2026.01_: &nbsp;🎉🎉 We released [**DARC**](https://arxiv.org/abs/2601.13761). DARC adopts a decoupled two-stage training pipeline together with an asymmetric self-distillation mechanism, achieving state-of-the-art performance in self-evolving LLMs. 
+
 
 - _2025.09_: &nbsp;🎉🎉 [MetaFlowLLM](https://openreview.net/pdf?id=QsQGMijLhL) is accepted to NeurIPS 2025!
 
@@ -39,7 +43,7 @@ I am also conducting research at [Natural Language Processing Lab at Tsinghua Un
 
   [Generalizing Experience for Language Agents with Hierarchical MetaFlows](https://openreview.net/pdf?id=QsQGMijLhL)
 
-  **Shengda Fan**, Xin Cong, Zhong Zhang, Yuepeng Fu, Yesai Wu, Hao Wang, Xinyu Zhang, Enrui Hu, Yankai Lin
+  **Shengda Fan**, Xin Cong†, Zhong Zhang, Yuepeng Fu, Yesai Wu, Hao Wang, Xinyu Zhang, Enrui Hu, Yankai Lin†
 
   <!-- [**Code**](#) <strong><span class='show_paper_citations' data='fan-etal-2025-metaflowllm'></span></strong>   -->
 
@@ -61,7 +65,7 @@ I am also conducting research at [Natural Language Processing Lab at Tsinghua Un
 
   [WORKFLOWLLM: Enhancing Workflow Orchestration Capability of Large Language Models](https://openreview.net/pdf?id=3Hy00Wvabi)
 
-  **Shengda Fan**, Xin Cong, Yuepeng Fu, Zhong Zhang, Shuyan Zhang, Yuanwei Liu, Yesai Wu, Yankai Lin†, Zhiyuan Liu, Maosong Sun
+  **Shengda Fan**\*, Xin Cong\*†, Yuepeng Fu, Zhong Zhang, Shuyan Zhang, Yuanwei Liu, Yesai Wu, Yankai Lin†, Zhiyuan Liu, Maosong Sun
 
   [**Code**](https://github.com/OpenBMB/WorkflowLLM) 
 
@@ -84,7 +88,7 @@ I am also conducting research at [Natural Language Processing Lab at Tsinghua Un
 
   [LogicST: A Logical Self‑Training Framework for Document‑Level Relation Extraction with Incomplete Annotations](https://aclanthology.org/2024.emnlp-main.314/)  
 
-  **Shengda Fan**, Yanting Wang, Shasha Mo, Jianwei Niu  
+  **Shengda Fan**\*, Yanting Wang\*, Shasha Mo\*†, Jianwei Niu  
 
   [**Code**](https://github.com/XingYing-stack/LogicST) 
 
@@ -104,17 +108,25 @@ I am also conducting research at [Natural Language Processing Lab at Tsinghua Un
 
   <div class='paper-box-text' markdown="1">
   [Boosting Document‑Level Relation Extraction by Mining and Injecting Logical Rules](https://aclanthology.org/2022.emnlp-main.704/)  
-  **Shengda Fan**, Shasha Mo, Jianwei Niu  
+  **Shengda Fan**\*, Shasha Mo\*†, Jianwei Niu  
   [**Code**](https://github.com/XingYing-stack/MILR)  
   - Proposed MILR, a framework that mines logical rules from annotations and injects them into the training and inference process to improve consistency and F1 scores in Document Relation Extraction.
   </div>
 </div>
 
+
+- [Key Mention Pairs Guided Document‑Level Relation Extraction](https://aclanthology.org/2022.coling-1.165/),  Feng Jiang, Jianwei Niu†, Shasha Mo†, **Shengda Fan**, **COLING 2022**
+
+- [CETA: A Consensus Enhanced Training Approach for Denoising in Distantly Supervised Relation Extraction](https://aclanthology.org/2022.coling-1.197/), Ruri Liu\*, Shasha Mo\*†, Jianwei Ni†, **Shengda Fan**, **COLING 2022**
+
+# 📝 Technical Reports
+- [AgentCPM-Explore: Realizing Long-Horizon Deep Exploration for Edge-Scale Agents](https://arxiv.org/pdf/2602.06485)
+
 - [MiniCPM4: Ultra-Efficient LLMs on End Devices.](https://arxiv.org/abs/2506.07900)
 
-- [Key Mention Pairs Guided Document‑Level Relation Extraction](https://aclanthology.org/2022.coling-1.165/),  Feng Jiang, Jianwei Niu, Shasha Mo, **Shengda Fan**, **COLING 2022**
+# 📝 Preprints
 
-- [CETA: A Consensus Enhanced Training Approach for Denoising in Distantly Supervised Relation Extraction](https://aclanthology.org/2022.coling-1.197/), Ruri Liu, Shasha Mo, Jianwei Niu, **Shengda Fan**, **COLING 2022**
+- [DARC: Decoupled Asymmetric Reasoning Curriculum for LLM Evolution](https://arxiv.org/pdf/2601.13761), **Shengda Fan**\*, Xuyan Ye\*, Yankai Lin†
 
 <!-- # 🎖 Honors and Awards
 
