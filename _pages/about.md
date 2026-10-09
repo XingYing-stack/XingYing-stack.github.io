@@ -22,6 +22,8 @@ I’m currently a Ph.D. student at the Gaoling School of Artificial Intelligence
 I am also conducting research at [Natural Language Processing Lab at Tsinghua University(THUNLP)](https://nlp.csai.tsinghua.edu.cn/), supervised by [Prof. XinCong](https://scholar.google.com/citations?user=RL9CmXgAAAAJ&hl=zh-CN). My research interest includes Agent and RL Algorithm.
 
 # 🔥 News
+- _2026_: &nbsp;🎉🎉 [**AgentProcessBench**](https://arxiv.org/abs/2603.14465) has been accepted to **KDD 2026**! It is the first benchmark dedicated to evaluating step-level effectiveness in realistic, tool-augmented trajectories.
+
 - _2026.01_: &nbsp;🎉🎉 We have open-sourced [AgentCPM-Explore](https://github.com/OpenBMB/AgentCPM)—an agent LLM with only 4B parameters—along with all code for training, inference, and the tool sandbox environment.
 
 - _2026.01_: &nbsp;🎉🎉 We released [**DARC**](https://arxiv.org/abs/2601.13761). DARC adopts a decoupled two-stage training pipeline together with an asymmetric self-distillation mechanism, achieving state-of-the-art performance in self-evolving LLMs. 
@@ -30,6 +32,29 @@ I am also conducting research at [Natural Language Processing Lab at Tsinghua Un
 - _2025.09_: &nbsp;🎉🎉 [MetaFlowLLM](https://openreview.net/pdf?id=QsQGMijLhL) is accepted to NeurIPS 2025!
 
 # 📝 Publications
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">KDD 2026</div>
+      <a href="https://rucbm.github.io/AgentProcessBench-Homepage/">
+        <img src='images/AgentProcessBench.png' alt="AgentProcessBench overview: trajectory sampling, expert annotation, and model evaluation" width="100%">
+      </a>
+    </div>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+
+  [AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents](https://arxiv.org/abs/2603.14465)
+
+  **Shengda Fan**\*, Xuyan Ye\*, Yupeng Huo, Zhi-Yuan Chen, Yiju Guo, Shenzhi Yang, Wenkai Yang, Shuqi Ye, Jingwen Chen, Haotian Chen, Xin Cong, Yankai Lin†
+
+  [**Paper**](https://arxiv.org/abs/2603.14465) · [**Code**](https://github.com/RUCBM/AgentProcessBench) · [**Dataset**](https://huggingface.co/datasets/LulaCola/AgentProcessBench) · [**Project Page**](https://rucbm.github.io/AgentProcessBench-Homepage/)
+
+  - Introduced *AgentProcessBench*, the first benchmark dedicated to evaluating step-level effectiveness in realistic, tool-augmented trajectories.
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image'>
