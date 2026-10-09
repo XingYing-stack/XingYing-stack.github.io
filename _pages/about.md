@@ -22,7 +22,7 @@ I’m currently a Ph.D. student at the Gaoling School of Artificial Intelligence
 I am also conducting research at [Natural Language Processing Lab at Tsinghua University(THUNLP)](https://nlp.csai.tsinghua.edu.cn/), supervised by [Prof. XinCong](https://scholar.google.com/citations?user=RL9CmXgAAAAJ&hl=zh-CN). My research interest includes Agent and RL Algorithm.
 
 # 🔥 News
-- _2026_: &nbsp;🎉🎉 [**AgentProcessBench**](https://arxiv.org/abs/2603.14465) has been accepted to **KDD 2026**! It is the first benchmark dedicated to evaluating step-level effectiveness in realistic, tool-augmented trajectories.
+- _2026.08_: &nbsp;🎉🎉 [**AgentProcessBench**](https://arxiv.org/abs/2603.14465) has been accepted to **KDD 2026**! It is the first benchmark dedicated to evaluating step-level effectiveness in realistic, tool-augmented trajectories.
 
 - _2026.01_: &nbsp;🎉🎉 We have open-sourced [AgentCPM-Explore](https://github.com/OpenBMB/AgentCPM)—an agent LLM with only 4B parameters—along with all code for training, inference, and the tool sandbox environment.
 
@@ -49,7 +49,7 @@ I am also conducting research at [Natural Language Processing Lab at Tsinghua Un
 
   **Shengda Fan**\*, Xuyan Ye\*, Yupeng Huo, Zhi-Yuan Chen, Yiju Guo, Shenzhi Yang, Wenkai Yang, Shuqi Ye, Jingwen Chen, Haotian Chen, Xin Cong, Yankai Lin†
 
-  [**Paper**](https://arxiv.org/abs/2603.14465) · [**Code**](https://github.com/RUCBM/AgentProcessBench) · [**Dataset**](https://huggingface.co/datasets/LulaCola/AgentProcessBench) · [**Project Page**](https://rucbm.github.io/AgentProcessBench-Homepage/)
+  [**Code**](https://github.com/RUCBM/AgentProcessBench) · [**Dataset**](https://huggingface.co/datasets/LulaCola/AgentProcessBench) · [**Project Page**](https://rucbm.github.io/AgentProcessBench-Homepage/)
 
   - Introduced *AgentProcessBench*, the first benchmark dedicated to evaluating step-level effectiveness in realistic, tool-augmented trajectories.
 
